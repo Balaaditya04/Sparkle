@@ -31,22 +31,6 @@ Run
 
 Open Folder
 
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
 # Clone the repository
 
 git clone https://github.com/yourusername/sparkle.git
@@ -66,10 +50,6 @@ Run
 
 Open Folder
 
-1
-
-2
-
 # Start the application
 
 npm start
@@ -82,10 +62,6 @@ Run
 
 Open Folder
 
-1
-
-2
-
 # Build the project
 
 npm run build
@@ -96,10 +72,6 @@ bash
 Run
 
 Open Folder
-
-1
-
-2
 
 # Run tests
 
@@ -113,5 +85,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For questions or feedback, please open an issue in the GitHub repository.
-
-Note: This README provides a general template. Please update with specific details about your Sparkle project.
