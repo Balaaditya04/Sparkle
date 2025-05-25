@@ -33,7 +33,7 @@ Open Folder
 
 # Clone the repository
 
-git clone https://github.com/yourusername/sparkle.git
+git clone https://github.com/Balaaditya04/sparkle.git
 
 # Navigate to the project directory
 
